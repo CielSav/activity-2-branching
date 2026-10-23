@@ -11,3 +11,6 @@ git branch
 git switch
 git merge
 git push
+
+Branch Status: Active
+Purpose: Practice creating and working with a feature branch.
