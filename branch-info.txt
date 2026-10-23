@@ -1,0 +1,13 @@
+Branching Activity
+
+Student: Elaisa Mae G. Lagrimas
+Date: October 23, 2026
+
+Main Branch: main
+Feature Branch: feature/branch-practice
+
+Commands:
+git branch
+git switch
+git merge
+git push
